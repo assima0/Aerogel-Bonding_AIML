@@ -1,5 +1,4 @@
-# Title and Team members
-Project Title: Aerogel Bonding
+# Aerogel Bonding
 Team Members: 
 - Assima Amangeldina
 - Ceyla Kaya
